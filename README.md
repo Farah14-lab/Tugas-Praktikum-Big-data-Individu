@@ -1,10 +1,12 @@
-# Bagian 1 spark-sql-big-data
-Tugas Praktikum Big data
+Tugas Praktikum Individu Big data
 Nama  : Farah Zulfa Hamidah</br>
 Absen : 07</br>
 Kelas : TI-3B</br>
 
-# Analitik dengan DataFrames
+# Bagian 1 spark-sql-big-data
+## Analitik dengan DataFrames
+----------------------------------------------------
+
 ## akses ke folder spark di mana Anda pernah ekstrak sebelumnya
 ![Screenshot](00_images/img1.png) </br>
 
@@ -16,3 +18,8 @@ Kelas : TI-3B</br>
 
 ## mengakses di browser CDH atau VM pada alamat http://quickstart.cloudera:8080/
 ![Screenshot](00_images/img4.png) </br>
+
+# Bagian 2 spark-sql-big-data/01_dataframes
+## Membuat DataFrames
+----------------------------------------------------
+
