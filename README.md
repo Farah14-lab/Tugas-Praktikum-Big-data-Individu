@@ -7,16 +7,16 @@ Kelas : TI-3B</br>
 ## Analitik dengan DataFrames
 ----------------------------------------------------
 
-## akses ke folder spark di mana Anda pernah ekstrak sebelumnya
+## Akses ke folder spark di mana Anda pernah ekstrak sebelumnya
 ![Screenshot](00_images/img1.png) </br>
 
-## running
+## Running
 ![Screenshot](00_images/img2.png) </br>
 
-## mengisikan password dengan cloudera
+## Mengisikan password dengan cloudera
 ![Screenshot](00_images/img3.png) </br>
 
-## mengakses di browser CDH atau VM pada alamat http://quickstart.cloudera:8080/
+## Mengakses di browser CDH atau VM pada alamat http://quickstart.cloudera:8080/
 ![Screenshot](00_images/img4.png) </br>
 
 # Bagian 2 spark-sql-big-data/01_dataframes
