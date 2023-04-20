@@ -66,7 +66,7 @@ Kelas : TI-3B</br>
 ![Screenshot](00_images/img19.png) </br>
 
 
-# Mengakses SparkOnHBaseConnector
+## Mengakses SparkOnHBaseConnector
 ![Screenshot](00_images/img20.png) </br>
 
 # Bagian 2 Tugas Praktikum Penjelasan Kode Program </br>
