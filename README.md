@@ -69,7 +69,7 @@ Kelas : TI-3B</br>
 ## Mengakses SparkOnHBaseConnector
 ![Screenshot](00_images/img20.png) </br>
 
-# Bagian 2 Tugas Praktikum Penjelasan Kode Program </br>
+# Bagian 3 Tugas Praktikum Penjelasan Kode Program </br>
 1.	mylist, myschema: Ini adalah dua variabel yang digunakan untuk menyimpan daftar data dan skema data secara berturut-turut.
 
 2.	spark.createDataFrame: Ini adalah fungsi yang digunakan untuk membuat DataFrame baru dalam Spark.
